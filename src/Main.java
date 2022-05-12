@@ -9,16 +9,12 @@ public class Main {
         System.out.println("The number of Doors is :"+ miCar.numbDoors);
 
     }
-
     public static void suma (int a, int b, int c){
         int solution;
         solution = a+b+c;
         System.out.println(solution);
 
     }
-
-
-
 }
 class Car {
     public int numbDoors=4;
